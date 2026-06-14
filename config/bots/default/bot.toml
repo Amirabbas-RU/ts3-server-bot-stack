@@ -1,0 +1,8 @@
+run = true
+
+[connect]
+address = "teamspeak:9987"
+name = "MusicBot"
+
+[audio]
+volume = { default = 50.0 }
